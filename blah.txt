@@ -1,0 +1,9 @@
+Hello!  
+
+This is a test file.
+
+Geir is going to teach us how to use Git.  
+
+Yay, Git with Geir!
+
+I am changing this file!
